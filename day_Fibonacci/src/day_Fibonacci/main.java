@@ -22,13 +22,6 @@ public class main {
     }
 
 
-    /**
-     * Tính số fibonacci thứ n
-     *
-     * @param n: chỉ số của số fibonacci tính từ 0
-     *           vd: F0 = 0, F1 = 1, F2 = 1, F3 = 2
-     * @return số fibonacci thứ n
-     */
     public static int fibonacci(int n) {
         int f0 = 0;
         int f1 = 1;

@@ -10,7 +10,7 @@ public class main {
         int x;
         x = scanner.nextInt();
 
-        for (int i = 0; i < x/2 ; i++) {
+        for (int i = 0; i < x ; i++) {
             if (checkNumber(i)) {
                 System.out.print(i + " ");
             }
